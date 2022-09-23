@@ -1,7 +1,7 @@
 /* See LICENSE file for copyright and license details. */
 
 /* appearance */
-static const char font[]        = "scientifica:size=14:antialias=false";
+static const char font[]        = "Terminus:antialias=false";
 static const char* normbgcolor  = "#002b36";
 static const char* normfgcolor  = "#839496";
 static const char* selbgcolor   = "#073642";
